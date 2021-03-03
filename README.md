@@ -15,4 +15,4 @@ Quick Phone
   - 聯合大學總機
   - 校園安全中心
 ## How nuu_app work
-Just Install and injoy
+安裝和享用
