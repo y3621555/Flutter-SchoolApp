@@ -14,7 +14,7 @@ WebView
 Quick Phone 
   - 聯合大學總機
   - 校園安全中心
-多國語言
+多國語言  
   - 中文
   - 英文
 ## How nuu_app work
