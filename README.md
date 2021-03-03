@@ -2,15 +2,17 @@
 
 A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+一個未開完整個校園App
+## Feature
+地圖(Map)
+  - 八甲與二坪山地圖
+  - 八甲與二坪山校園內部位置
+WebView
+  - 學雜費相關資訊
+  - 台灣銀行繳費入口
+Quick Phone 
+  - 聯合大學總機
+  - 校園安全中心
+## How nuu_app work
+Just Install and injoy
