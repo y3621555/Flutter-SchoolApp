@@ -1,4 +1,4 @@
-# nuu_app
+# _app
 
 A new Flutter application.
 
